@@ -10,11 +10,20 @@ I am a physicist dedicated to understanding the fundamental structure of the uni
 
 ---
 
+
 ### 📊 Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=dracula" width="45%" />
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=default">
+  <img alt="Dibakar's Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=default">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=default">
+  <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=default">
+</picture>
 
 ---
 
