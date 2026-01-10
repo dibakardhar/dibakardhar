@@ -2,7 +2,7 @@
 
 ### High Energy Physics | Astro-Particle Research Scholar
 
-I am a physicist dedicated to understanding the fundamental structure of the universe. My work bridges **High Energy Physics (HEP)** and **Astrophysics**, specifically focusing on multiparticle production processes and compact stars.
+I am a physicist dedicated to understanding the fundamental structure of the universe. My work bridges **High Energy Physics (HEP)** and **Astrophysics**, specifically focusing on multiparticle production processes and compact stars with a fine touch of **Artificial Intelligence (AI)**.
 
 - 🔬 **Current Research:** Event-by-event dynamical fluctuations in pp, p-Pb, and Pb-Pb collisions.
 - 🔭 **Interests:** Strange stars, QGP phase transitions, and AI applications in Physics.
