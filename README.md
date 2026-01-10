@@ -11,8 +11,9 @@ I am a physicist dedicated to understanding the fundamental structure of the uni
 ---
 
 ### 📊 Research Stats
-![Dibakar's Stats](https://github-readme-stats-fast.vercel.app/api?username=dibakardhar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=radical&hide=html,css)
+### 📊 Coding Activity
+![Dibakar's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=dracula)
 
 ---
 
