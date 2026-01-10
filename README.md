@@ -13,17 +13,24 @@ I am a physicist dedicated to understanding the fundamental structure of the uni
 
 ### 📊 Coding Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=radical">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=default">
-  <img alt="Dibakar's Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=default">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=radical">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=default">
-  <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=default">
-</picture>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=radical">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=default">
+        <img alt="Dibakar's Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dibakardhar&show_icons=true&theme=default" width="100%">
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=radical">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=default">
+        <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dibakardhar&layout=compact&theme=default" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
