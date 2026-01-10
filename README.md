@@ -34,6 +34,15 @@ I am a physicist dedicated to understanding the fundamental structure of the uni
 
 ---
 
+### 🛠️ Tech Stack & Physics Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,fortran,linux,bash,git,latex,vscode,pycharm&theme=dark" />
+</p>
+
+> **Physics Specifics:** `AMPT` | `PYTHIA8` | `ROOT (CERN)` | `Geant4` | `Mathematica`
+
+---
+
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dibakar-x01-dhar/)
 [<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=V0pm7XQAAAAJ)
