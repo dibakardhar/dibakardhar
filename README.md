@@ -47,8 +47,8 @@ I am a physicist dedicated to understanding the fundamental structure of the uni
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dibakar-x01-dhar/)
 [<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=V0pm7XQAAAAJ)
 [<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />](https://www.researchgate.net/profile/Dibakar-Dhar)
-[<img src="https://img.shields.io/badge/INSPIRE--HEP-Physics_DB-orange?style=for-the-badge&logo=readthedocs&logoColor=white" />](https://inspirehep.net/authors/2870903)
-[<img src="https://img.shields.io/badge/Scopus-Profile-E9711C?style=for-the-badge&logo=elsevier&logoColor=white" />](https://www.scopus.com/authid/detail.uri?authorId=59303501300)
+[<img src="https://img.shields.io/badge/INSPIRE--HEP-orange?style=for-the-badge&logo=readthedocs&logoColor=white" />](https://inspirehep.net/authors/2870903)
+[<img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white" />](https://www.scopus.com/authid/detail.uri?authorId=59303501300)
 
 ---
 
